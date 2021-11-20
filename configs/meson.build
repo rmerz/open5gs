@@ -52,6 +52,7 @@ foreach file : example_conf
 endforeach
 
 subdir('open5gs')
+subdir('cups')
 subdir('freeDiameter')
 subdir('systemd')
 subdir('logrotate')
